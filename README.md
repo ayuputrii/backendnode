@@ -27,3 +27,7 @@ Finish installed, running program:
 node <file/folder program> 
 ____________________________
 contoh: node server.js
+
+
+-Link POSTMAN 
+https://documenter.getpostman.com/view/12578859/TVRka7oQ
