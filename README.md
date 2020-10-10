@@ -1,27 +1,29 @@
 Application ZWallet Restfull Api With  Node JS, Express JS, and MySQL 
+__________________________________________________________________________
 
-<p color="Blue"> Z- App (Z-Wallet) </p>
+1. This Z-App application uses Rest Api which is implemented through POSTMAN, URL Environment and then include 3 table:
+________________________________________________________________________________________________________________________
+- Profile (Get, Post, Update, Delete)
+- Transfer (Get, Post, Search Name, Update, Delete)
+- Top Up (Get, Post, Update, Delete)
 
-This Z-App application uses Rest Api which is implemented through POSTMAN, URL Environment and then include 3 table:
+2. Tools:
+____________
+- Node JS
+- Express JS
+- Api
+- My SQL
 
-Profile (Get, Post, Update, Delete)
-Transfer (Get, Post, Search Name, Update, Delete)
-Top Up (Get, Post, Update, Delete)
-Tools:
-
-Node JS
-Express JS
-Api
-My SQL
-
-Tutorial:
-
+3. Tutorial:
+______________
 Before starting the program, please you install packages and othe features:
 
-npm init -y (Installation Package.json)
-npm i mysql express body-parser (Installation body parser and mysql)
-npm i dotenv <Connection Database With Env>
+- npm init -y (Installation Package.json)
+- npm i mysql express body-parser (Installation body parser and mysql)
+- npm i dotenv <Connection Database With Env>
 
 Finish installed, running program:
 
-node <file/folder program>
+node <file/folder program> 
+____________________________
+contoh: node server.js
